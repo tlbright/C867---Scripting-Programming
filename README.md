@@ -1,5 +1,5 @@
 # C867
-C867 assessment
+C867 Scripting & Programming - C++
 
 This assessment tasked me with creating a program to iterate and review information within a data table created from parsing through strings, replacing information, and finally printing out the finalized information into a final table for viewing. 
 
